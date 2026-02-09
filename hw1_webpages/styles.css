@@ -151,12 +151,11 @@ nav {
     flex: 1;
 }
 
-.content-block h3 {
+.content-block h2 {
     color: aliceblue;
     margin-top: 0;
     margin-bottom: 10px;
 }
-
 .content-block p {
     color: aliceblue;
     margin: 0;
@@ -170,6 +169,12 @@ footer {
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
+}
+
+footer h2 {
+    color: aliceblue;
+    margin-top: 0;
+    margin-bottom: 15px;
 }
 
 footer h3 {
